@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **keerthigavnr@gmail.com**
 
-- ⚡ Fun fact **I make simple things complicated(A typical Engineer mindset)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
