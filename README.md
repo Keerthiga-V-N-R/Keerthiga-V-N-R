@@ -1,16 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm V.N.R.Keerthiga</h1>
-<h3 align="center">A passionate Datascientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthiga-v-n-r&label=Profile%20views&color=0e75b6&style=flat" alt="keerthiga-v-n-r" /> </p>
-
-- 🌱 I’m currently learning **Tensorflow, deeplearning**
-
-- 💬 Ask me about **Data visualisation,Machine learning**
-
-- 📫 How to reach me **keerthigavnr@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
